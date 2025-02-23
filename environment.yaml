@@ -1,0 +1,11 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - ipykernel
+  - python=3.13.2
+  - scikit-learn
+prefix: C:\Users\jbaik\AppData\Local\miniconda3\envs\dstoolbox
